@@ -287,7 +287,7 @@ class _MapScreenState extends State<MapScreen> {
           var locality = placeList[2].locality;
 
           setState(() {
-            originAddress = name!.contains('منطقه') || name == locality
+            desAddress = name!.contains('منطقه') || name == locality
                 ? '$locality ${placeList[1].name}'
                 : '$locality $name';
           });
