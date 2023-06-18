@@ -21,7 +21,7 @@ Technologies used in the project:
 *   Flutter_svg
 
 <h3>🦖 ScreenShots</h3> 
-![Screenshot_20230618-175110](https://github.com/poyaaghajani/Snap-Sample/assets/107408431/0b82efb0-4888-4700-aa46-364943e2fdde)
+![Screenshot_20230618-175110](https://github.com/poyaaghajani/Snap-Sample/assets/107408431/ebe2ade1-769d-473f-aa2a-5076ee4f9fcc)
 
 
 
