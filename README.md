@@ -9,7 +9,7 @@ Here're some of the project's best features:
 
 *   Select Origin Address
 *   Select Destination Adress
-*   Watch Current Location
+*   Show User Current Location
 
   
 <h2>💻 Built with</h2>
